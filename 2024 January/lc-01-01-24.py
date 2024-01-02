@@ -1,4 +1,4 @@
-# Grade : easy
+# Level : easy
 # 455. Assign Cookies
 
 from typing import List
