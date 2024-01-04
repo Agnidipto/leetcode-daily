@@ -1,6 +1,8 @@
 # Level : Medium
 # 2610. Convert an Array Into a 2D Array With Conditions
 
+from typing import List
+
 class Solution:
     def findMatrix(self, nums: List[int]) -> List[List[int]]:
 

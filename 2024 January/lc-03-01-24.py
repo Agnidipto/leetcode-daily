@@ -1,6 +1,8 @@
 # 2125. Number of Laser Beams in a Bank
 # Level : Medium
 
+from typing import List
+
 class Solution:
     def numberOfBeams(self, bank: List[str]) -> int:
 
