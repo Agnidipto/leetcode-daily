@@ -1,6 +1,8 @@
 # 931. Minimum Falling Path Sum
 # Level : Medium
 
+from typing import *
+
 class Solution:
     def minFallingPathSum(self, matrix: List[List[int]]) -> int:
 

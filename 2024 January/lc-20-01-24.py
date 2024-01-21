@@ -1,6 +1,8 @@
 # 907. Sum of Subarray Minimums
 # Level : Medium 
 
+from typing import *
+
 class Solution:
     def sumSubarrayMins(self, arr: List[int]) -> int:
 
