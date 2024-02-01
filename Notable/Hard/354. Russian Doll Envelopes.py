@@ -1,6 +1,8 @@
 # 354. Russian Doll Envelopes
 # Level : Hard 
 
+from typing import *
+
 class Solution:
     def maxEnvelopes(self, envelopes: List[List[int]]) -> int:
 
